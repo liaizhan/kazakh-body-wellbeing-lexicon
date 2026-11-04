@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Kazakh body and well-being lexicon: 83 health topics, search keywords and WHO-5 wording in Kazakh, Russian and English"
+abstract: "Parallel lexicon of 83 women's health topics with names, life themes and 1,913 search keywords in Kazakh, Russian and English, plus WHO-5 Well-Being Index wording. Built from the women's psychosomatics section of 108psy.com."
+type: dataset
+authors:
+  - family-names: Li
+    given-names: Aizhan
+    orcid: "https://orcid.org/0009-0002-5669-0445"
+    affiliation: "108psy.com"
+repository-code: "https://github.com/liaizhan/kazakh-body-wellbeing-lexicon"
+url: "https://108psy.com/kk/psihosomatika"
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2026-11-05
+keywords:
+  - Kazakh
+  - Russian
+  - parallel corpus
+  - lexicon
+  - health
+  - women's health
+  - WHO-5
+  - well-being
