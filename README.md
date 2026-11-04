@@ -79,6 +79,12 @@ the Kazakh letters ә ғ қ ң ө ұ ү һ і or review the list by hand.
 - [chatgpt-plugin-one-tool](https://github.com/liaizhan/chatgpt-plugin-one-tool):
   a minimal MCP server with one WHO-5 tool and notes on the OpenAI review.
 
+## About the method
+
+The Ladder method, its structure and pilot data are described in a preprint (in Russian):
+
+Li, A. (2026). Онлайн-самопроверка внутренних препятствий на пути к цели: структура, операционализация и пилотные данные методики «Лестница». Zenodo. https://doi.org/10.5281/zenodo.23960425
+
 ## License and citation
 
 Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
