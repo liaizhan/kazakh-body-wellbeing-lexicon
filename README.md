@@ -2,6 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23961719.svg)](https://doi.org/10.5281/zenodo.23961719)
 
+Also on Hugging Face: [liaizhan/kazakh-body-wellbeing-lexicon](https://huggingface.co/datasets/liaizhan/kazakh-body-wellbeing-lexicon),
+ready for `load_dataset("liaizhan/kazakh-body-wellbeing-lexicon", "terms")`.
+
 A small parallel lexicon in **Kazakh, Russian and English**: 83 everyday
 health topics women search for (body parts, symptoms, common conditions),
 the words people actually type when they look for them, a short life theme
@@ -76,6 +79,8 @@ the Kazakh letters ә ғ қ ң ө ұ ү һ і or review the list by hand.
 
 ## Related
 
+- [Hugging Face dataset](https://huggingface.co/datasets/liaizhan/kazakh-body-wellbeing-lexicon):
+  the same files with the configs `terms` and `keywords`.
 - [ladder-who5](https://github.com/liaizhan/ladder-who5): WHO-5 scoring and
   Ladder method question templates, with a browser demo.
 - [chatgpt-plugin-one-tool](https://github.com/liaizhan/chatgpt-plugin-one-tool):
