@@ -1,5 +1,7 @@
 # Kazakh body and well-being lexicon
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23961719.svg)](https://doi.org/10.5281/zenodo.23961719)
+
 A small parallel lexicon in **Kazakh, Russian and English**: 83 everyday
 health topics women search for (body parts, symptoms, common conditions),
 the words people actually type when they look for them, a short life theme
